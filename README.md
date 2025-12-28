@@ -7,7 +7,7 @@
 
 Prism Launcher (Cracked)
 Неофициальная версия лаунчера Prism.
-🔗 https://github.com/Diegiwg/PrismLauncher-Cracked/releases
+🔗 Скачать
 
 ⚠️ Используйте на свой страх и риск
 
@@ -15,16 +15,21 @@ Prism Launcher (Cracked)
 
 Logitech Onboard Memory Manager
 Утилита для настройки встроенной памяти игровых мышей Logitech.
-🔗 https://download01.logi.com/web/ftp/pub/techsupport/gaming/OnboardMemoryManager_2.5.358.exe
+🔗 Скачать
 
 🎥 Видео и медиа
 
 LosslessCut
 Быстрое редактирование видео и аудио без перекодирования.
-🔗 https://github.com/mifi/lossless-cut/releases
+🔗 Скачать
 
 🔄 Конвертация файлов
 
 FileConverter
 Контекстное меню Windows для конвертации файлов.
-🔗 https://github.com/Tichau/FileConverter
+🔗 Скачать
+
+🎵 Медиаплееры
+
+MPC-HC — классический медиаплеер для Windows
+🔗 Скачать
